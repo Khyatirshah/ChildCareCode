@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.childcare.application" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GLOBAL_SEARCH" />
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.android.childcare.application.MainActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.childcare.application.ChildDashboard"
+            android:label="Childcare Dashboard" />
+        <activity
+            android:name="com.android.childcare.application.ActivityVaccination"
+            android:label="Vaccinations" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.TabActivity" />
+        </activity>
+        <activity
+            android:name="com.android.childcare.application.Activity_sixWeek"
+            android:label="6 weeks" />
+        <activity
+            android:name="com.android.childcare.application.ActivityBirth"
+            android:label="Birth" />
+        <activity
+            android:name="com.android.childcare.application.Activity_tenWeek"
+            android:label="10 weeks" />
+        <activity
+            android:name="com.android.childcare.application.Activity_forten_week"
+            android:label="14 weeks" />
+        <activity
+            android:name="com.android.childcare.application.Activity_sixMon"
+            android:label="6 Months" />
+        <activity
+            android:name="com.android.childcare.application.Activity_nineMonth"
+            android:label="9 Months" />
+        <activity
+            android:name="com.android.childcare.application.Activity_twelveMonth"
+            android:label="12 Months" />
+        <activity
+            android:name="com.android.childcare.application.Activity_fiftenMonth"
+            android:label="15 Months" />
+        <activity
+            android:name="com.android.childcare.application.Diet_Four_Six"
+            android:label="4 to 6 Months" />
+        <activity
+            android:name="com.android.childcare.application.Activity_eightenMonth"
+            android:label="Up to 8 Months" />
+        <activity
+            android:name="com.android.childcare.application.Activity_twoYears"
+            android:label="Up to 2 Years" />
+        <activity
+            android:name="com.android.childcare.application.Activity_fourYear"
+            android:label="Up to 4 Year" />
+        <activity
+            android:name="com.android.childcare.application.Activity_fiveYear"
+            android:label="Up to 5 Years" />
+        <activity
+            android:name="com.android.childcare.application.Activity_diet"
+            android:label="Diet" />
+        <activity
+            android:name="com.android.childcare.application.DietBirth"
+            android:label="Birth Time" />
+        <activity
+            android:name="com.android.childcare.application.Diet_Six_Eight"
+            android:label="Diet 6 to 8 months" />
+        <activity
+            android:name="com.android.childcare.application.Diet_Eight_Ten"
+            android:label="Diet 8 to 10 months" />
+        <activity
+            android:name="com.android.childcare.application.Diet_Ten_Tweleve"
+            android:label="Diet 10 to 12 months" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Growth"
+            android:label="Child Growth" />
+        <activity
+            android:name="com.android.childcare.application.Growth_Girl"
+            android:label="Baby Girl Growth" />
+        <activity
+            android:name="com.android.childcare.application.Growth_Boy"
+            android:label="Baby Bot Growth" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Massage"
+            android:label="Child Massage" />
+        <activity
+            android:name="com.android.childcare.application.TummyMassage"
+            android:label="Tummy Massage" />
+        <activity
+            android:name="com.android.childcare.application.MassageHeadFace"
+            android:label="Head and Face Massage" />
+        <activity
+            android:name="com.android.childcare.application.MassageChest"
+            android:label="Chest Massage" />
+        <activity
+            android:name="com.android.childcare.application.MasageArms"
+            android:label="Arms Masage" />
+        <activity
+            android:name="com.android.childcare.application.MassageBack"
+            android:label="Back Massage" />
+        <activity
+            android:name="com.android.childcare.application.MassageLeg"
+            android:label="Leg Massage" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Categorized"
+            android:label="categorized care" />
+        <activity
+            android:name="com.android.childcare.application.Categorized_Boy"
+            android:label="Baby Boy Care" />
+        <activity
+            android:name="com.android.childcare.application.Categorized_Twins"
+            android:label="Twins care" />
+        <activity
+            android:name="com.android.childcare.application.Categorized_Girl"
+            android:label="Baby Girl Care" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Clean"
+            android:label="Cleanness" />
+        <activity
+            android:name="com.android.childcare.application.MotherDashboard"
+            android:label="Mother Care Dashboard" />
+        <activity
+            android:name="com.android.childcare.application.ChildCareDashboard"
+            android:label="Childcare Dashboard" />
+        <activity
+            android:name="com.android.childcare.application.Activity_FirstAid"
+            android:label="First Aid" />
+        <activity
+            android:name="com.android.childcare.application.Activity_working"
+            android:label="Working Woman Care" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Excersise"
+            android:label="Excersise" />
+        <activity
+            android:name="com.android.childcare.application.excersise_list"
+            android:label="Different Excersise" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Postpartum"
+            android:label="Postpartum" />
+        <activity
+            android:name="com.android.childcare.application.Activity_MomDiet"
+            android:label="Mother Diet" />
+        <activity
+            android:name="com.android.childcare.application.SamplePlan"
+            android:label="Sample Diet Plane" />
+        <activity
+            android:name="com.android.childcare.application.Activity_HomeMade"
+            android:label="Home Made Child Food" />
+        <activity
+            android:name="com.android.childcare.application.Activity_avocado"
+            android:label="Avocado Recipes" />
+        <activity
+            android:name="com.android.childcare.application.Activity_banana"
+            android:label="Banana Recipes" />
+        <activity
+            android:name="com.android.childcare.application.Activity_apple"
+            android:label="Icecream for Baby" />
+        <activity
+            android:name="com.android.childcare.application.Activity_puree"
+            android:label="Purees" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Extras"
+            android:label="Extras" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Videos"
+            android:label="Videos" />
+        <activity
+            android:name="com.android.childcare.application.Activity_FAQ"
+            android:label="FAQs" />
+        <activity
+            android:name="com.android.childcare.application.Activity_Specific_Vaccination"
+            android:label="Specific Vaccination Detail" />
+    </application>
+
+</manifest>

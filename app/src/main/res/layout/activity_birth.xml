@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mandatory and Optional Vaccines Detail"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:layout_marginLeft="10dp"
+        />
+
+ <!-- first vaccin -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="10dp"
+     android:orientation="vertical"
+     android:background="@color/lightpink"
+      >
+
+    <!-- name -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+ 
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Name:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  BCG  (Bacillus Calmette Guerin) (Mandatory)"
+        	android:textStyle="bold"
+        	android:textColor="@color/pink"/>		
+   </LinearLayout>
+<!-- prevents -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="prevents:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Tuberculosis"
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+<!-- importance -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Important Info:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  It causes slight swelling at the injected site.Do not apply any medicine on swollen area. "
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+ 	 
+ </LinearLayout>
+
+ 
+ <!-- Second vaccin -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="15dp"
+     android:orientation="vertical"
+     android:background="@color/lightblue"
+      >
+
+    <!-- name -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+ 
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Name:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  OPV (Oral Polio Vaccine) (Mandatory)"
+        	android:textStyle="bold"
+        	android:textColor="@color/pink"/>		
+   </LinearLayout>
+<!-- prevents -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="prevents:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Polimyelitis (polio), which damages nervous system causes muscle weakness or paralysis."
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+<!-- importance -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Important Info:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Given for free in Govt. Hospitals upto the age of 5 years on pulse Immunization day.. "
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+ 	 
+ </LinearLayout>
+ 
+ 
+ <!-- Third vaccin -->
+ <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:layout_marginTop="15dp"
+    android:background="@color/lightpink"
+    >
+    <!-- name -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+ 
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Name:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Hepatitis B (Optional)"
+        	android:textStyle="bold"
+        	android:textColor="@color/pink"/>		
+   </LinearLayout>
+<!-- prevents -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="prevents:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Liver infection caused by Hepatitis B virus."
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+<!-- importance -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Important Info:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Essential within 12 hours to prevent transmission from mother. "
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+ 	 
+ </LinearLayout>
+ 
+ 
+ <!-- Forth vaccin -->
+ <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:layout_marginTop="10dp"
+    android:background="@color/lightblue"
+    >
+    <!-- name -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+ 
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Name:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  HPV (Human Papilloma Virus) (Optional)"
+        	android:textStyle="bold"
+        	android:textColor="@color/pink"/>		
+   </LinearLayout>
+<!-- prevents -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="prevents:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Cervical cancer and other genital cancers."
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+<!-- importance -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Important Info:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Only for girls. "
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+ 	 
+ </LinearLayout>
+</LinearLayout>
+</ScrollView>

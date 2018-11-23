@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "13,6,2,3,4,5",
+                        "startColumns": "5,4,4,4,4,4",
+                        "startOffsets": "478,256,19,79,133,185",
+                        "endLines": "27,12,2,3,4,5",
+                        "endColumns": "19,19,58,52,50,69",
+                        "endOffsets": "933,471,73,127,179,250"
+                    },
+                    "to": {
+                        "startLines": "2,17,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,501,1464,1523,1576,1627",
+                        "endLines": "16,23,42,43,44,45",
+                        "endColumns": "19,19,58,52,50,69",
+                        "endOffsets": "496,710,1518,1571,1622,1692"
+                    }
+                },
+                {
+                    "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "5,11,9,14,13,15,7,8,17,18,16,4,12,19,10,6,3,2",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "172,402,329,511,474,547,246,288,628,669,588,136,438,712,367,209,99,53",
+                        "endColumns": "35,34,36,34,35,39,40,39,39,41,38,34,34,38,33,35,35,40",
+                        "endOffsets": "207,436,365,545,509,586,286,327,667,710,626,170,472,750,400,244,134,93"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "715,755,794,835,874,914,958,1003,1047,1091,1137,1180,1219,1258,1301,1339,1379,1419",
+                        "endColumns": "39,38,40,38,39,43,44,43,43,45,42,38,38,42,37,39,39,44",
+                        "endOffsets": "750,789,830,869,909,953,998,1042,1086,1132,1175,1214,1253,1296,1334,1374,1414,1459"
+                    }
+                },
+                {
+                    "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,4,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "19,85,410",
+                        "endLines": "2,10,24",
+                        "endColumns": "58,12,12",
+                        "endOffsets": "73,398,1008"
+                    },
+                    "to": {
+                        "startLines": "46,47,54",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1697,1755,2067",
+                        "endLines": "46,53,66",
+                        "endColumns": "57,12,12",
+                        "endOffsets": "1750,2062,2653"
+                    }
+                }
+            ]
+        }
+    ]
+}

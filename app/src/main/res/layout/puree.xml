@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pureed Baby Food Recipes - Tender Carrots"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="One of the most popular first solid foods for baby - and possibly the cheapest! It makes you wonder why people are prepared to pay so much for jars of prepared foods, when you see how economical these are to prepare at home!" />
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Choose large, older carrots - these are actually richer in nutrients than baby carrots. Just trim the ends and slice. Then steam, boil or microwave and puree to perfection!" />
+
+     
+      <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pureed Baby Food Recipes - Superb Swede (Rutabaga)"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Swede (or rutabaga) is often neglected as a food for babies, yet it has a lovely, earthy flavour that our children have all enjoyed." />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Simply peel the swede, cut it into chunks and then boil, steam or microwave until tender (swede takes around the same time as white potatoes to cook). It is very easy to puree to a wonderful, smooth consistency." />
+
+
+ <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pureed Baby Food Recipes - Tasty Zucchini (Courgettes)"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zucchini purees to a very thin, almost watery consistency. Introduce them on their own at first (as per the four day rule), then mix them with other vegetables that may otherwise be a little too 'stodgy' in texture." />
+
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="wrap_content"
+        android:text="Simply wash the zucchini, remove both ends, then slice. You can boil in a very little water, steam or microwave them until tender, then puree them as usual." />
+
+
+</LinearLayout>
+
+
+</ScrollView>

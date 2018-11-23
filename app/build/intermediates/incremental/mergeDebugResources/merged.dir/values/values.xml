@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Vaccination">
+        <item>Select Age</item>
+        <item>BIRTH</item>
+        <item>6 WEEKS</item>
+        <item>10 WEEKS</item>
+        <item>14 WEEKS</item>
+        <item>6 MONTHS</item>
+        <item>9 MONTHS</item>
+        <item>12 MONTHS</item>
+        <item>15 MONTHS</item>
+        <item>18 MONTHS</item>
+        <item>2 YEARS</item>
+        <item>4 YEARS</item>
+        <item>5 YEARS</item>
+    </string-array>
+    <string-array name="befor">
+        <item>Select Weight</item>
+        <item>Underweight</item>
+        <item>Normal weight</item>
+        <item>Overweight</item>
+        <item>Obese</item>
+    </string-array>
+    <color name="black">#030303</color>
+    <color name="blue">#3D59AB</color>
+    <color name="bluebg">#395D88</color>
+    <color name="gold">#DAA520</color>
+    <color name="green">#00C78C</color>
+    <color name="lightblue">#ADD8E6</color>
+    <color name="lightcorol">#F08080</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="lightpink">#FFE1FF</color>
+    <color name="lightpurple">#EED2EE</color>
+    <color name="lightsky">#8DB6CD</color>
+    <color name="nevy">#000080</color>
+    <color name="pink">#DC143C</color>
+    <color name="seagreen">#C1FFC1</color>
+    <color name="sep">#42BBEC</color>
+    <color name="snow2">#EEE9E9</color>
+    <color name="white">#FCFCFC</color>
+    <color name="whitesmoke">#f8f9fe</color>
+    <string name="app_name">Childcare Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Childcare Application</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+    <style name="ClassmatesList">
+        <item name="android:textColor">#ff29549f</item>
+        <item name="android:textSize">15dip</item>
+        <item name="android:layout_height">40dip</item>
+        <item name="android:minHeight">50dip</item>
+        <item name="android:padding">10dip</item>
+    </style>
+    <style name="DashboardButton"> 
+        <item name="android:layout_gravity">center_vertical</item>  
+        <item name="android:gravity">center_horizontal</item>
+       <item name="android:layout_width">wrap_content</item> 
+        <item name="android:layout_height">wrap_content</item> 
+         
+        <item name="android:textSize">13dp</item> 
+        <item name="android:textStyle">bold</item> 
+        <item name="android:textColor">#FCFCFC</item> 
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:background">@null</item> 
+        
+    </style>
+</resources>

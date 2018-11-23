@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="whitesmoke">#f8f9fe</color>    
+<color name="white">#FCFCFC</color>
+<color name="nevy">#000080</color>
+<color name="black">#030303</color>
+<color name="snow2">#EEE9E9</color>
+<color name="lightcorol">#F08080</color>
+<color name="lightgrey">#D3D3D3</color>
+<color name="bluebg">#395D88</color>
+<color name="sep">#42BBEC</color>
+<color name="blue">#3D59AB</color>
+<color name="pink">#DC143C</color>
+<color name="green">#00C78C</color>
+<color name="gold">#DAA520</color>
+<color name="lightblue">#ADD8E6</color>
+<color name="lightsky">#8DB6CD</color>
+<color name="lightpink">#FFE1FF</color>
+<color name="lightpurple">#EED2EE</color>
+<color name="seagreen">#C1FFC1</color>
+
+</resources>

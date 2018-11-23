@@ -1,0 +1,213 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.childcare.application">
+
+    <uses-sdk android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GLOBAL_SEARCH" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ChildDashboard"
+            android:label="Childcare Dashboard"></activity>
+
+        <activity
+            android:name=".ActivityVaccination"
+            android:label="Vaccinations">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.TabActivity" />
+        </activity>
+        <activity
+            android:name=".Activity_sixWeek"
+            android:label="6 weeks"></activity>
+        <activity
+            android:name=".ActivityBirth"
+            android:label="Birth"></activity>
+        <activity
+            android:name=".Activity_tenWeek"
+            android:label="10 weeks"></activity>
+
+        <activity
+            android:name=".Activity_forten_week"
+            android:label="14 weeks"></activity>
+
+        <activity
+            android:name=".Activity_sixMon"
+            android:label="6 Months"></activity>
+
+        <activity
+            android:name=".Activity_nineMonth"
+            android:label="9 Months"></activity>
+
+        <activity
+            android:name=".Activity_twelveMonth"
+            android:label="12 Months"></activity>
+
+        <activity
+            android:name=".Activity_fiftenMonth"
+            android:label="15 Months"></activity>
+
+        <activity
+            android:name=".Diet_Four_Six"
+            android:label="4 to 6 Months"></activity>
+
+        <activity
+            android:name=".Activity_eightenMonth"
+            android:label="Up to 8 Months"></activity>
+
+        <activity
+            android:name=".Activity_twoYears"
+            android:label="Up to 2 Years"></activity>
+
+        <activity
+            android:name=".Activity_fourYear"
+            android:label="Up to 4 Year"></activity>
+
+        <activity
+            android:name=".Activity_fiveYear"
+            android:label="Up to 5 Years"></activity>
+
+        <activity
+            android:name=".Activity_diet"
+            android:label="Diet"></activity>
+
+        <activity
+            android:name=".DietBirth"
+            android:label="Birth Time"></activity>
+
+        <activity
+            android:name=".Diet_Six_Eight"
+            android:label="Diet 6 to 8 months"></activity>
+
+        <activity
+            android:name=".Diet_Eight_Ten"
+            android:label="Diet 8 to 10 months"></activity>
+
+        <activity
+            android:name=".Diet_Ten_Tweleve"
+            android:label="Diet 10 to 12 months"></activity>
+
+        <activity
+            android:name=".Activity_Growth"
+            android:label="Child Growth"></activity>
+
+        <activity
+            android:name=".Growth_Girl"
+            android:label="Baby Girl Growth"></activity>
+        <activity
+            android:name=".Growth_Boy"
+            android:label="Baby Bot Growth"></activity>
+
+        <activity
+            android:name=".Activity_Massage"
+            android:label="Child Massage"></activity>
+        <activity
+            android:name=".TummyMassage"
+            android:label="Tummy Massage"></activity>
+        <activity
+            android:name=".MassageHeadFace"
+            android:label="Head and Face Massage"></activity>
+        <activity
+            android:name=".MassageChest"
+            android:label="Chest Massage"></activity>
+        <activity
+            android:name=".MasageArms"
+            android:label="Arms Masage"></activity>
+        <activity
+            android:name=".MassageBack"
+            android:label="Back Massage"></activity>
+        <activity
+            android:name=".MassageLeg"
+            android:label="Leg Massage"></activity>
+        <activity
+            android:name=".Activity_Categorized"
+            android:label="categorized care"></activity>
+        <activity
+            android:name=".Categorized_Boy"
+            android:label="Baby Boy Care"></activity>
+        <activity
+            android:name=".Categorized_Twins"
+            android:label="Twins care"></activity>
+        <activity
+            android:name=".Categorized_Girl"
+            android:label="Baby Girl Care"></activity>
+        <activity
+            android:name=".Activity_Clean"
+            android:label="Cleanness"></activity>
+        <activity
+            android:name=".MotherDashboard"
+            android:label="Mother Care Dashboard"></activity>
+        <activity
+            android:name=".ChildCareDashboard"
+            android:label="Childcare Dashboard"></activity>
+        <activity
+            android:name=".Activity_FirstAid"
+            android:label="First Aid"></activity>
+        <activity
+            android:name=".Activity_working"
+            android:label="Working Woman Care"></activity>
+        <activity
+            android:name=".Activity_Excersise"
+            android:label="Excersise"></activity>
+        <activity
+            android:name=".excersise_list"
+            android:label="Different Excersise"></activity>
+        <activity
+            android:name=".Activity_Postpartum"
+            android:label="Postpartum"></activity>
+        <activity
+            android:name=".Activity_MomDiet"
+            android:label="Mother Diet"></activity>
+        <activity
+            android:name=".SamplePlan"
+            android:label="Sample Diet Plane"></activity>
+        <activity
+            android:name=".Activity_HomeMade"
+            android:label="Home Made Child Food"></activity>
+        <activity
+            android:name=".Activity_avocado"
+            android:label="Avocado Recipes"></activity>
+        <activity
+            android:name=".Activity_banana"
+            android:label="Banana Recipes"></activity>
+        <activity
+            android:name=".Activity_apple"
+            android:label="Icecream for Baby"></activity>
+        <activity
+            android:name=".Activity_puree"
+            android:label="Purees"></activity>
+        <activity
+            android:name=".Activity_Extras"
+            android:label="Extras"></activity>
+        <activity
+            android:name=".Activity_Videos"
+            android:label="Videos"></activity>
+        <activity
+            android:name=".Activity_FAQ"
+            android:label="FAQs"></activity>
+        <activity
+            android:name=".Activity_Specific_Vaccination"
+            android:label="Specific Vaccination Detail"></activity>
+
+
+    </application>
+
+</manifest>

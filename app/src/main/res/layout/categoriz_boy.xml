@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Warning"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="When you have a baby boy, there are some things you need to take extra, special care of that you otherwise wouldn&apos;t have to worry about with a girl. Whether you have the penis circumcised or not, it must be cleaned thoroughly in the first few weeks especially. Boys also will pee everywhere. So, when you are changing a diaper on a baby boy, be sure to have an extra cloth, preferably soft, on hand to cover their penis up or you will get hosed down with pee. It may not happen today or tomorrow, but you are guaranteed to be peed on before he reaches 3 months old." />
+
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Size"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="Even when pregnant, baby boys tend to be larger than baby girls. Sometimes it's more baby fat, bigger heads or they are just plain taller. Some people say they can tell by how a woman is carrying a baby that she is going to have a boy. With size comes a baby boy's growth rate. Seemingly, boys don't grow at a larger growth rate. Instead, they start out larger and will follow a similar growth rate as baby girls." />
+
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Misconceptions"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="When it comes to baby boys, many people are worried about how they talk to him, play with him and what toys and songs and videos he watches. Any parent of a boy will tell you that worries such as these are technically unfounded until they are toddlers to preschoolers. You are the most important person in your baby boy's life. What you do and what you say will affect him more than any material possession you place in front of him." />
+
+
+ <ImageView
+      android:id="@+id/imageView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      
+      android:src="@drawable/grp" />
+</LinearLayout>
+
+</ScrollView>

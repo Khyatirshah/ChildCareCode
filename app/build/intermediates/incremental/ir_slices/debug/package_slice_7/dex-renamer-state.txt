@@ -1,0 +1,4 @@
+#Fri Nov 23 16:24:57 IST 2018
+base.0=D\:\\CradleCuddles\\CradleCuddlesMaterial\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

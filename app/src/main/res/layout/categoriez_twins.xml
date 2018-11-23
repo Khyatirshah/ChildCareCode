@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Feeding"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="Feeding two is no harder because increased demand increases milk production. Finding a method that works may take some practice and patience, however. The trick is to find a comfortable position that works for you. You can use a twin nursing pillow with each twins' head cradled in a hand. Simultaneous nursing saves time and has other benefits as well. Nursing at the same time helped put them on the same nap schedule. " />
+
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cleaning"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="Don't worry about bathing every baby each day. To and tail them or bath then every few days. Milk feeds and a clean nappy are the priorities." />
+
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="Don't get caught up in having separate things for each baby as far as 'germs' go. Twins and other multiples are in such close proximity to each other all the time, their germs are permanently shared!" />
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="outing"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="•	Get out of the house as often as you can. We know this is not easy but the fresh air will be worth the effort. If your babies become more synchronised in their eating and sleeping patterns, this can become easier. Stock your baby bags the night before so you are ready to go when they are." />
+
+
+ <ImageView
+      android:id="@+id/imageView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      
+      android:src="@drawable/grp" />
+</LinearLayout>
+
+</ScrollView>

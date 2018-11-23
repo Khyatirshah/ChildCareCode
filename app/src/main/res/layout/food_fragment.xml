@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.childcare.dashboard.HomeNadeDashboard
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:id = "@+id/fragment_layout"
+    android:isScrollContainer="true"
+     >
+    
+ <!--  News Feed Button -->
+ 
+    <Button
+        android:id="@+id/btn_avocado"
+        style="@style/DashboardButton"
+        android:layout_width="wrap_content"
+        android:drawableTop="@drawable/avocado"
+        android:text="Avocado Recipes"
+        android:textColor="@color/black" />
+     
+    <!--  Friends Button -->
+    <Button
+        android:id="@+id/btn_banana"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/banana"
+        android:text="Banana Recipes" 
+        android:textColor="@color/black"
+         /> 
+  
+    <!--  Messages Button -->
+    <Button
+        android:id="@+id/btn_apple"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/icecream"
+        android:text="Icecream for Baby" 
+        android:textColor="@color/black"
+        /> 
+  
+    <!--  Places Button -->
+    <Button
+        android:id="@+id/btn_puree"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/pure"
+        android:text="Simple Puree Recipes" 
+        android:textColor="@color/black"
+         /> 
+  
+    <!--  Events Button --> 
+    <!--  Photos Button -->
+    
+</com.android.childcare.dashboard.HomeNadeDashboard>

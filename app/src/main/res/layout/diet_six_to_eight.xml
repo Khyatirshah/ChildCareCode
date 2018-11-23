@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="5dp"
+     >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:text="Diet for 6 to 8 Month"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/blue"
+        android:textStyle="bold" />
+
+<TextView
+	    android:id="@+id/textView5"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="In case you are just starting your baby onto solid foods, you should start you baby on pureed and liquid food. It will be similar to what we discussed in 4 to 6 months." 
+	    android:layout_marginTop="10dp"
+	    />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="What to Feed:" 
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+        />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Breastmilk or Formula"
+        android:layout_marginLeft="15dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dal water, Rice water, Diluted Rice cereal, mashed banana diluted with baby’s milk, cooked and thinly pureed and strained fruits and vegetables"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gradually thicken the purees a bit. Pass the cooked fruits and vegetables through a strainer, so that there are no lumps. You can gradually introduce lumpier , mashed food as well as combination foods"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Puree two vegetables or fruits together. E.g. Apple and pear- cooked and pureed together, Carrot with potato etc."
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Khichdi,  different legumes like kidney beans, grams, black gram, chickpeas"
+		android:layout_marginTop="3dp"
+        android:layout_marginLeft="15dp"
+         />
+     <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dairy - Full fat Curd or Yogurt, cheese, paneer"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+     <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tofu"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+	
+	<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What Not to Feed :"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Chunky food – your baby does not have enough teeth, if at all, to chew chunky food and can choke upon them."
+        android:layout_marginLeft="15dp"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Low fat curd – You may swear by that slim yogurt, but do not try to share it with your baby. Babies need fat at this age for proper development of brain, so give wholemilk yogurt or curd, preferably homemade."
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+	
+
+	<TextView
+	    android:id="@+id/textView5"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="Check with your paediatrician before introducing eggs , fish or meat to your baby’s diet. Whenever you introduce combination foods, ensure that individual items have been safely introduced first." 
+	    android:layout_marginTop="10dp"
+	    />
+
+
+
+	<ImageView
+	    android:id="@+id/imageView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:src="@drawable/grop" 
+	    
+	    />
+
+</LinearLayout>
+</ScrollView>

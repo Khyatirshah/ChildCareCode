@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.childcare.dashboard.DashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:id = "@+id/fragment_layout"
+    android:isScrollContainer="true"
+     >
+    
+ <!--  News Feed Button -->
+ 
+    <Button
+        android:id="@+id/btn_vactin"
+        style="@style/DashboardButton"
+        android:layout_width="wrap_content"
+        android:drawableTop="@drawable/vacc"
+        android:text="Vaccination"
+        android:textColor="@color/black" />
+     
+    <!--  Friends Button -->
+    <Button
+        android:id="@+id/btn_diet"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/diet"
+        android:text="Diet" 
+        android:textColor="@color/black"
+         /> 
+  
+    <!--  Messages Button -->
+    <Button
+        android:id="@+id/btn_growth"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/growth"
+        android:text="Child Growth" 
+        android:textColor="@color/black"
+        /> 
+  
+    <!--  Places Button -->
+    <Button
+        android:id="@+id/btn_massage"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/massage"
+        android:text="Child Massage" 
+        android:textColor="@color/black"
+         /> 
+  
+    <!--  Events Button -->
+    <Button
+        android:id="@+id/btn_Categorized"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/categorized"
+        android:text="Categorized child care" 
+        android:textColor="@color/black"
+         /> 
+ 	<Button
+        android:id="@+id/btn_clean"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/handwash"
+        android:text="Cleanness" 
+        android:textColor="@color/black"
+         /> 
+    <!--  Photos Button -->
+    <Button
+        android:id="@+id/btn_fstAid"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/fstaid"
+        android:text="First Aid" 
+        android:textColor="@color/black"
+         />
+    <Button
+        android:id="@+id/btn_qp"
+        style="@style/DashboardButton"
+        
+         
+        android:textColor="@color/black"
+         />
+</com.android.childcare.dashboard.DashboardLayout>

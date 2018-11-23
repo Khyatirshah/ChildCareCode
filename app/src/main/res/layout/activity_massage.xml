@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How to Massage a Baby"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/green"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Daily infant massage is a great way to bond with baby. What's more, researchers are finding that massage may promote better sleeping, relieve colic, and perhaps even enhance an infant's immune system, motor skills, and intellectual development. Here are some tips and techniques to help you along."
+        android:layout_marginTop="5dp"
+         />
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Use a blanket or towel, and massage oil in a non-breakable container. (Test the oil on a small spot of your baby's skin and wait a day to be sure no irritation appears.) Start when your baby is in a quiet yet alert state -- not immediately after a feeding or when she's sleepy. Sit on the floor with the soles of your feet together, forming a diamond shape with your legs. Drape the blanket over your feet and between your knee."
+        android:layout_marginTop="7dp"
+         />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:text="Undress your baby down to her diaper and place her on the blanket, cradling her head on your feet. Start with a gentle hello stroke from baby's head to her toes. If baby stiffens, cries, or becomes irritable, move to another body part or simply end the massage for the day. If she responds well, start gently massaging her body section by section." />
+
+<TextView
+        android:id="@+id/textTummy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Tummy Massage."
+        android:textStyle="bold" 
+        android:textColor="@color/blue"
+        android:layout_gravity="center"
+        android:gravity="center"
+        />
+
+<TextView
+        android:id="@+id/textHeadFace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Head and Face Massage."
+        android:textStyle="bold" 
+        android:textColor="@color/blue"
+        android:gravity="center"
+        />
+<TextView
+        android:id="@+id/textChest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Chest Massage."
+        android:textStyle="bold" 
+        android:textColor="@color/blue"
+        android:gravity="center"
+        />
+<TextView
+        android:id="@+id/textArms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Arms Massage."
+        android:textStyle="bold" 
+        android:textColor="@color/blue"
+        android:gravity="center"
+        />
+<TextView
+        android:id="@+id/textBack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Back Massage."
+        android:textStyle="bold" 
+        android:textColor="@color/blue"
+        android:gravity="center"
+        />
+<TextView
+        android:id="@+id/textLegs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Legs Massage."
+        android:textStyle="bold" 
+        android:textColor="@color/blue"
+        android:gravity="center"
+        />
+
+
+</LinearLayout>
+</ScrollView>

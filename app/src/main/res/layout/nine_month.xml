@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mandatory and Optional Vaccines Detail"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" 
+        android:layout_marginLeft="10dp"
+        />
+</LinearLayout>
+ <!-- first vaccin -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="10dp"
+     android:orientation="vertical"
+     android:background="@color/lightpink"
+      >
+
+    <!-- name -->
+
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+ 
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Name:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Measles (Mandatory)"
+        	android:textStyle="bold"
+        	android:textColor="@color/pink"/>		
+   </LinearLayout>
+<!-- prevents -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="prevents:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Measles, which causes infection of the respiratory system."
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+<!-- importance -->
+ <LinearLayout
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:orientation="vertical" >
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Important Info:  "
+        	android:textStyle="bold"
+        	android:textColor="@color/black"
+        
+        	/>
+		<TextView
+        	android:id="@+id/textView1"
+        	android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+    	    android:text="  Highly contiguous diseas hence its very important to get vaccination done on time. "
+    	    android:textColor="@color/black"
+        	
+        	/>
+ </LinearLayout>
+ 	 
+ </LinearLayout>    
+
+</LinearLayout>

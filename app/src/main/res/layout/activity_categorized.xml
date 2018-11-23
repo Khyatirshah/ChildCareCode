@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    
+    >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    
+    <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="This module contains some information that can not be generalized. Some special care need to be taken for baby boy, girl and twins."
+            android:textAppearance="?android:attr/textAppearanceMedium" 
+            android:layout_marginTop="10dp"
+            />
+    
+      
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        >"
+
+      <Button
+          android:id="@+id/btn_boy"
+          style="@style/DashboardButton"
+          android:layout_width="137dp"
+          android:drawableTop="@drawable/boy"
+          android:text="Baby Boy"
+          android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="From here you can get all the special care information need to be taken for baby boy."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        >
+
+       <Button
+           android:id="@+id/btn_twins"
+           style="@style/DashboardButton"
+           android:layout_width="wrap_content"
+           android:drawableTop="@drawable/twin"
+           android:text="Twins"
+           android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="From here you can get all the special care information need to be taken for baby Twins."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+    
+ <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        >
+
+
+
+      <Button
+          android:id="@+id/Btn_girl"
+          style="@style/DashboardButton"
+          android:layout_width="138dp"
+          android:drawableTop="@drawable/girl"
+          android:text="Baby Girl"
+          android:textColor="@color/black" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="From here you can get all the special care information need to be taken for baby Girl."
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout>
+
+  <ImageView
+      android:id="@+id/imageView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      
+      android:src="@drawable/grp" />
+
+</LinearLayout>
+</ScrollView>

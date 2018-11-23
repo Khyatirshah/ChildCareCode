@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="5dp"
+     >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:text="Diet for 8 to 10 Month"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/blue"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="What to Feed:" 
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+        />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Breastmilk or Formula"
+        android:layout_marginLeft="15dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cooked and mashed fruits and vegetables"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pureed legumes , paneer, tofu"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Different cereals in addition to rice, suji, ragi, wholewheat (atta) , oats etc"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Non-vegetarian proteins like eggs (Check with your doctor before introducing eggs. Egg whites are known to cause allergic reactions in babies, so it is recommended to introduce yolks first and wait to introduce whites after 1 year), fish, chicken. Introduce your baby to lean meat which is healthier."
+		android:layout_marginTop="3dp"
+        android:layout_marginLeft="15dp"
+         />
+     <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Make sure what fish or meat you introduce is well cooked, deboned and pureed. Follow the rule to introduce very little and only one item at time and wait till atleast 3-4 days to screen for allergies etc."
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+	
+	<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What Not to Feed :"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Many fishes like swordfish, shark, shellfish etc. are known to be unsafe due to concentrated levels of mercury. You should not introduce these to your baby before one year."
+        android:layout_marginLeft="15dp"
+         />
+
+
+
+	<ImageView
+	    android:id="@+id/imageView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:src="@drawable/grop" 
+	    
+	    />
+
+</LinearLayout>
+</ScrollView>

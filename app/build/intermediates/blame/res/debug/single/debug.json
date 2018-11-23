@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_excersise.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_excersise.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tip4.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tip4.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_diet_ten_to_tweleve.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\diet_ten_to_tweleve.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_videos.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_videos.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_categoriz_boy.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\categoriz_boy.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_birth.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\birth.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extra1.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\extra1.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_categoriz_girl.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\categoriz_girl.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grp2.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\grp2.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_working.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\working.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_diet_four_to_six.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\diet_four_to_six.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_homemade.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\homemade.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grp.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\grp.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_headmassgae.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\headmassgae.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icecream.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\icecream.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_general.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\general.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eighteenmonths.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\eighteenmonths.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_puree.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\puree.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fiveyears.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\fiveyears.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diet2.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\diet2.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vaccination.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\vaccination.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_massage_head_face.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\massage_head_face.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dietmom.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\dietmom.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_working.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_working.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spoons.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\spoons.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_firstaid.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_firstaid.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mummy.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\mummy.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_girl.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\girl.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_diet_birth.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\diet_birth.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diper.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\diper.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kit.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\kit.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_mother_fragment.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\mother_fragment.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_specific_vaccination.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\specific_vaccination.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_categoriez_twins.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\categoriez_twins.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_massage.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_massage.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_legs.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\legs.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_extras.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_extras.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_faq.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_faq.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cleanness.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\cleanness.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banana.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\banana.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_apple.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\apple.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tip3.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tip3.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\anim_anim_android.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\anim\\anim_android.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arm.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\arm.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ninemonths.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\ninemonths.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fstaid.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\fstaid.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_six_week.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\six_week.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_growth.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_growth.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_sample_plan.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\sample_plan.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twin.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\twin.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_diet_eight_to_ten.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\diet_eight_to_ten.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_six_month.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\six_month.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_diet.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_diet.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_categorized.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\categorized.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apple.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\apple.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vacc.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\vacc.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tip6.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tip6.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weight.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\weight.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eating.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\eating.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sixweeks.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\sixweeks.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fruits.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\fruits.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_massage_tummy.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\massage_tummy.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_categorized.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_categorized.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_videos.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\videos.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_diet.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\diet.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_excersise.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\excersise.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_mother_dashboard.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\mother_dashboard.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_massage_arms.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\massage_arms.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extra.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\extra.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_massage_chest.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\massage_chest.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boy.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\boy.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_massage_back.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\massage_back.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fourteenweeks.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\fourteenweeks.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group1.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\group1.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tip7.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tip7.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grop.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\grop.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twoyears.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\twoyears.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_vaccination.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\vaccination.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pure.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\pure.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_twelve_month.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\twelve_month.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avocado.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\avocado.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tip1.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tip1.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home1.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\home1.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comments.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\comments.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_five_year.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\five_year.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_eighten_month.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\eighten_month.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twelmonths.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\twelmonths.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_two_years.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\two_years.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_homemade.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_homemade.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tip2.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tip2.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_massage_chest.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\massage_chest.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_four_year.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\four_year.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_massage_leg.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\massage_leg.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_growth.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\growth.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_food_fragment.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\food_fragment.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_diet_six_to_eight.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\diet_six_to_eight.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_growth_boy.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\growth_boy.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\fragment.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fifteenmonths.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\fifteenmonths.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_growth_girl.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\growth_girl.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_faq.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\faq.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_dashboard.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\dashboard.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tenweeks.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tenweeks.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tip5.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tip5.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_child.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\child.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_banana.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\banana.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_postpartum.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_postpartum.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mom_diet.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_mom_diet.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_avocado.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\avocado.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tummy.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\tummy.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_massage.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\massage.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_nine_month.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\nine_month.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_clean.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_clean.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_ten_weeks.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\ten_weeks.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_forten_week.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\forten_week.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_birth.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\activity_birth.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_fifteen_month.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\fifteen_month.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\back.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_handwash.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\handwash.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\layout_excersise_list.xml.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\layout\\excersise_list.xml"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fouryears.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\fouryears.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group2.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\group2.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_twns.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\twns.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_workingwoman.jpg.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\workingwoman.jpg"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sixmonths.png.flat",
+        "source": "D:\\CradleCuddlesMaterial\\ChildCareCode\\app\\src\\main\\res\\drawable\\sixmonths.png"
+    }
+]

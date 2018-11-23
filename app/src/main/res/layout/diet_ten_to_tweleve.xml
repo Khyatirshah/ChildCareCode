@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="5dp"
+     >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:text="Diet for 10 to 12 Month"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/blue"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="What to Feed:" 
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+        />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Breastmilk or Formula"
+        android:layout_marginLeft="15dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cooked, mashed complex foods- Khichdi,  vegetable pulao, mixed soups, dosas, lentils etc"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You can give most of the food you are having, as long as it is not too oily, hot and spicy."
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+         />
+	
+	<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What Not to Feed :"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cow’s Milk"
+        android:layout_marginLeft="15dp"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Honey – Can cause botulism in infants, hence it is recommended to wait till one year before giving honey"
+        android:layout_marginLeft="15dp"
+         />
+<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Once you start solids, start feeding some amount of water also. It need not be more than 120-150 ml per day. Many babies suffer from constipation once they start solids. Having water will not only keep the baby hydrated, but also keep constipation at bay."
+        android:layout_marginTop="10dp"
+         />
+
+
+	<ImageView
+	    android:id="@+id/imageView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:src="@drawable/grop" 
+	    android:layout_marginTop="70dp"
+	    
+	    />
+
+</LinearLayout>
+</ScrollView>

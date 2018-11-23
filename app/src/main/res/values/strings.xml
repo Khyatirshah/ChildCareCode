@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Childcare Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Childcare Application</string>
+    <string-array name="befor">
+        <item>Select Weight</item>
+        <item>Underweight</item>
+        <item>Normal weight</item>
+        <item>Overweight</item>
+        <item>Obese</item>
+    </string-array>
+     <string-array name="Vaccination">
+        <item>Select Age</item>
+        <item>BIRTH</item>
+        <item>6 WEEKS</item>
+        <item>10 WEEKS</item>
+        <item>14 WEEKS</item>
+        <item>6 MONTHS</item>
+        <item>9 MONTHS</item>
+        <item>12 MONTHS</item>
+        <item>15 MONTHS</item>
+        <item>18 MONTHS</item>
+        <item>2 YEARS</item>
+        <item>4 YEARS</item>
+        <item>5 YEARS</item>
+    </string-array>
+    
+
+</resources>

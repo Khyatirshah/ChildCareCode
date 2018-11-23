@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.childcare.dashboard.MotherDashboardLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:id = "@+id/fragment_layout"
+    android:isScrollContainer="true"
+     >
+    
+ <!--  News Feed Button -->
+ 
+    <Button
+        android:id="@+id/btn_working"
+        style="@style/DashboardButton"
+        android:layout_width="wrap_content"
+        android:drawableTop="@drawable/working"
+        android:text="Working women care"
+        android:textColor="@color/black" />
+     
+    <!--  Friends Button -->
+    <Button
+        android:id="@+id/btn_excersise"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/excersise"
+        android:text="Exercise during pregnancy" 
+        android:textColor="@color/black"
+         /> 
+  
+    <!--  Messages Button -->
+    <Button
+        android:id="@+id/btn_Postpartum"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/kit"
+        android:text="Postpartum Care Kit" 
+        android:textColor="@color/black"
+        /> 
+  
+    <!--  Places Button -->
+    <Button
+        android:id="@+id/btn_diet"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/dietmom"
+        android:text="Diet" 
+        android:textColor="@color/black"
+         /> 
+  
+    <!--  Events Button -->
+    <Button
+        android:id="@+id/btn_HomeMade"
+        style="@style/DashboardButton"
+        android:drawableTop="@drawable/homemade"
+        android:text="Home Made Baby Food" 
+        android:textColor="@color/black"
+         /> 
+ 	<Button
+        android:id="@+id/btn_clean"
+        style="@style/DashboardButton"
+        
+         
+        android:textColor="@color/black"
+         /> 
+    <!--  Photos Button -->
+    <Button
+        android:id="@+id/btn_fstAid"
+        style="@style/DashboardButton"
+        
+        android:textColor="@color/black"
+         />
+    <Button
+        android:id="@+id/btn_qp"
+        style="@style/DashboardButton"
+        
+         
+        android:textColor="@color/black"
+         />
+</com.android.childcare.dashboard.MotherDashboardLayout>

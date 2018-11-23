@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/pink"
+        android:text="Q:Nothing can relieve the symptoms of morning sickness. True or False?"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A:False. Actually, morning sickness is a misnomer because it can occur at any time of the day and it is not a sickness. Nausea and vomiting are normal characteristics of early pregnancy. In some cases, nausea and vomiting can be controlled. Nausea and vomiting associated with pregnancy can be affected by the amount of food eaten and what time it is eaten. Avoiding greasy, fried, or spicy food might help pregnant women manage their nausea. Pregnant women may also try to eat smaller meals, frequent meals, and bland foods like toast and crackers." />
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/green"
+        android:text="Q:Occasionally, small amounts of alcohol are fine for pregnant women. True or False?"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A:False. There is no safe amount of alcohol a woman can drink during her pregnancy. Drinking anything that contains any amount of alcohol can cause problems for babies. When a fetus is exposed to alcohol, fetal alcohol syndrome (FAS) can result, potentially causing problems in later life. The exact amount of alcohol that leads to problems in pregnancy is not known, so pregnant women are advised to abstain from alcohol completely." />
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/blue"
+        android:text="Q: I am 5 days late, but have cramps like when I have my period. Could I be pregnant? "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A: Take a urine test for pregnancy after a couple of days." />
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/pink"
+        android:text="Q: We have been trying for a baby for 4 months now. For the last two months my period has lasted for only 2 days. (Usually my period lasts for 4 days.) Do I have an iron deficiency? What could be the problem? We had intercourse based on the results of an ovulation kit, but I did not get pregnant. "
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A: I would not be in a position to help you as I do not have details of your menstrual cycle and also any other investigations that you have got done. It is best you visit your gynaecologist, who, after seeing the reports will be in a better position to help you. The option of infertility is only looked into if a couple has been trying to conceive without success over a period of one year. You are only just starting. Give it more time. Have intercourse a couple of days before and after the ovulation period as well." />
+</LinearLayout>
+
+    
+
+
+</ScrollView>

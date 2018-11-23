@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vegetarian Diets in Pregnancy"
+        android:textStyle="bold"
+        android:textColor="@color/lightcorol"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A well-balanced vegetarian diet during pregnancy can give your baby the best possible start." />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="Good nutrition is vital for all women during pregnancy. Eat a variety of foods, rich in nutrients and calories, to meet the needs of mother and baby." />
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Calorie Needs"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="@color/lightcorol"
+    android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Calorie need does not increase during the first trimester. In the second trimester, a woman needs an extra 340 calories. In the third trimester, she needs an extra 450 calories. Overweight women may need fewer calories, while underweight women may need more." />
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Healthy Weight Gain"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="@color/lightcorol"
+    android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_height="wrap_content"
+    android:text="Select your weight before pragnancy"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="@color/blue"
+    android:textStyle="bold" />
+
+<Spinner
+    android:id="@+id/spinner1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:entries="@array/befor" />
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Recommended weight gain"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="@color/blue"
+    android:textStyle="bold" />
+
+<TextView
+    android:id="@+id/textAns"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+     />
+
+<TextView
+    android:id="@+id/txtClick"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:text="Click to see the sample diet plan"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="@color/blue" />
+
+<ImageView
+    android:id="@+id/imageView1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:src="@drawable/spoons" />
+
+</LinearLayout>
+</ScrollView>

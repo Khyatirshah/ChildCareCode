@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:1:1-213:12
+INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:1:1-213:12
+INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:1:1-213:12
+	package
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:2:5-48
+		INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:4:5-47
+INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:4:5-47
+INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:4:5-47
+INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:4:5-47
+INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:4:5-47
+	android:targetSdkVersion
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:4:15-44
+		INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:4:5-47
+		INJECTED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.GLOBAL_SEARCH
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:10:22-69
+application
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:12:5-211:19
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.android.childcare.application.MainActivity
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.android.childcare.application.ChildDashboard
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:26:9-28:60
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:28:13-48
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:27:13-43
+activity#com.android.childcare.application.ActivityVaccination
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:32:13-41
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:31:13-48
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:34:13-36:59
+	android:value
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:36:17-56
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:35:17-63
+activity#com.android.childcare.application.Activity_sixWeek
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:38:9-40:48
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:39:13-45
+activity#com.android.childcare.application.ActivityBirth
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:41:9-43:46
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:43:13-34
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:42:13-42
+activity#com.android.childcare.application.Activity_tenWeek
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:44:9-46:49
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:45:13-45
+activity#com.android.childcare.application.Activity_forten_week
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:48:9-50:49
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:49:13-49
+activity#com.android.childcare.application.Activity_sixMon
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:52:9-54:49
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:53:13-44
+activity#com.android.childcare.application.Activity_nineMonth
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:56:9-58:49
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:57:13-47
+activity#com.android.childcare.application.Activity_twelveMonth
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:60:9-62:50
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:62:13-38
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:61:13-49
+activity#com.android.childcare.application.Activity_fiftenMonth
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:64:9-66:50
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:66:13-38
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:65:13-49
+activity#com.android.childcare.application.Diet_Four_Six
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:68:9-70:54
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:70:13-42
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:69:13-42
+activity#com.android.childcare.application.Activity_eightenMonth
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:72:9-74:55
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:74:13-43
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:73:13-50
+activity#com.android.childcare.application.Activity_twoYears
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:76:9-78:54
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:78:13-42
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:77:13-46
+activity#com.android.childcare.application.Activity_fourYear
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:80:9-82:53
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:82:13-41
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:81:13-46
+activity#com.android.childcare.application.Activity_fiveYear
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:84:9-86:54
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:86:13-42
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:85:13-46
+activity#com.android.childcare.application.Activity_diet
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:88:9-90:45
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:90:13-33
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:89:13-42
+activity#com.android.childcare.application.DietBirth
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:92:9-94:51
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:94:13-39
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:93:13-38
+activity#com.android.childcare.application.Diet_Six_Eight
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:96:9-98:59
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:98:13-47
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:97:13-43
+activity#com.android.childcare.application.Diet_Eight_Ten
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:100:9-102:60
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:102:13-48
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:101:13-43
+activity#com.android.childcare.application.Diet_Ten_Tweleve
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:104:9-106:61
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:106:13-49
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:105:13-45
+activity#com.android.childcare.application.Activity_Growth
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:108:9-110:53
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:110:13-41
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:109:13-44
+activity#com.android.childcare.application.Growth_Girl
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:112:9-114:57
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:114:13-45
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:113:13-40
+activity#com.android.childcare.application.Growth_Boy
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:115:9-117:56
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:117:13-44
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:116:13-39
+activity#com.android.childcare.application.Activity_Massage
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:119:9-121:54
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:121:13-42
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:120:13-45
+activity#com.android.childcare.application.TummyMassage
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:122:9-124:54
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:124:13-42
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:123:13-41
+activity#com.android.childcare.application.MassageHeadFace
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:125:9-127:62
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:127:13-50
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:126:13-44
+activity#com.android.childcare.application.MassageChest
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:128:9-130:54
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:130:13-42
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:129:13-41
+activity#com.android.childcare.application.MasageArms
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:131:9-133:52
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:133:13-40
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:132:13-39
+activity#com.android.childcare.application.MassageBack
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:134:9-136:53
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:136:13-41
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:135:13-40
+activity#com.android.childcare.application.MassageLeg
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:137:9-139:52
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:139:13-40
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:138:13-39
+activity#com.android.childcare.application.Activity_Categorized
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:140:9-142:57
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:142:13-45
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:141:13-49
+activity#com.android.childcare.application.Categorized_Boy
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:143:9-145:54
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:145:13-42
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:144:13-44
+activity#com.android.childcare.application.Categorized_Twins
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:146:9-148:51
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:148:13-39
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:147:13-46
+activity#com.android.childcare.application.Categorized_Girl
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:149:9-151:55
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:151:13-43
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:150:13-45
+activity#com.android.childcare.application.Activity_Clean
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:152:9-154:50
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:154:13-38
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:153:13-43
+activity#com.android.childcare.application.MotherDashboard
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:155:9-157:62
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:157:13-50
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:156:13-44
+activity#com.android.childcare.application.ChildCareDashboard
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:158:9-160:60
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:160:13-48
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:159:13-47
+activity#com.android.childcare.application.Activity_FirstAid
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:161:9-163:50
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:163:13-38
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:162:13-46
+activity#com.android.childcare.application.Activity_working
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:164:9-166:59
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:166:13-47
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:165:13-45
+activity#com.android.childcare.application.Activity_Excersise
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:167:9-169:50
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:169:13-38
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:168:13-47
+activity#com.android.childcare.application.excersise_list
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:170:9-172:60
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:172:13-48
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:171:13-43
+activity#com.android.childcare.application.Activity_Postpartum
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:173:9-175:51
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:175:13-39
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:174:13-48
+activity#com.android.childcare.application.Activity_MomDiet
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:176:9-178:52
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:178:13-40
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:177:13-45
+activity#com.android.childcare.application.SamplePlan
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:179:9-181:58
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:181:13-46
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:180:13-39
+activity#com.android.childcare.application.Activity_HomeMade
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:182:9-184:61
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:184:13-49
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:183:13-46
+activity#com.android.childcare.application.Activity_avocado
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:185:9-187:56
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:187:13-44
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:186:13-45
+activity#com.android.childcare.application.Activity_banana
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:188:9-190:55
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:190:13-43
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:189:13-44
+activity#com.android.childcare.application.Activity_apple
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:191:9-193:58
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:193:13-46
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:192:13-43
+activity#com.android.childcare.application.Activity_puree
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:194:9-196:47
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:196:13-35
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:195:13-43
+activity#com.android.childcare.application.Activity_Extras
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:197:9-199:47
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:199:13-35
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:198:13-44
+activity#com.android.childcare.application.Activity_Videos
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:200:9-202:47
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:202:13-35
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:201:13-44
+activity#com.android.childcare.application.Activity_FAQ
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:203:9-205:45
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:205:13-33
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:204:13-41
+activity#com.android.childcare.application.Activity_Specific_Vaccination
+ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:206:9-208:68
+	android:label
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:208:13-56
+	android:name
+		ADDED from D:\CradleCuddlesMaterial\ChildCareCode\app\src\main\AndroidManifest.xml:207:13-58

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Walking"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="One of the best cardiovascular exercises for pregnant women, walking keeps you fit without jarring your knees and ankles. It is safe throughout the nine months of pregnancy and can be built into your day-to-day schedule." />
+
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jogging / Running"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Going for a jog is the quickest and most efficient way to work your heart and your body. You can tailor it to your schedule, running 15 minutes one day when that's all you can fit in and 30 the next when you have the time." />
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Swimming"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Swimming is one of the best and safest forms of exercise for you. It exercises both your large muscle groups (your arms and legs) and works your heart and lungs. The bigger your bump gets, the more you'll enjoy feeling weightless in the water." />
+
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Yoga and stretches"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Yoga helps to maintain muscle tone and flexibility. It's kinder to your joints than more vigorous types of exercise. However, you may have to go walking a few times a week to give your heart a workout. This will complement the stretching you do in your yoga sessions. " />
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pilates"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Pilates exercises follow patterns of movement which work and strengthen your tummy and pelvic floor muscles, a segment of your body known as the stable core or base. The exercises you learn (and this goes for yoga, too) may help you with relaxation and breathing in labour when the time comes." />
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Weight training"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="If weight training is already part of your exercise routine, there's no reason to stop. You will need to ease off on the heavier weights now you're pregnant, though. As long as you are careful, light weight training is a great way to tone and strengthen your muscles. Don't work so hard so that you overheat and gradually wind down your regime towards the end of your pregnancy. " />
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Low-impact aerobics"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="A low-impact aerobics class gives you a regular time slot when you're guaranteed to get some exercise. If you sign up for a class for pregnant women, you'll get to make new friends, and can feel reassured that each movement is safe for you and your baby. " />
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dance"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="You can get your heart pumping by dancing to your favourite tunes in the comfort and privacy of your own home. Don't get carried away, though! Try not to leap, jump, twirl or change direction suddenly. If you sign up for a class for pregnant women, you can lose yourself in music, stay fit, and meet others just like you. " />
+</LinearLayout>
+</ScrollView>

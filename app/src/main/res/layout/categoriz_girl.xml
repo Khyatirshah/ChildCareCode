@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+    
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:text="Girl child is special and needs special care. Raising a girl child is a very big responsibility on parents. " />
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Make her Strong"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="Help her make her dreams powerful so that she accepts the challenges coming in between and achieve it." />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="For physical fitness and strongness you can have different activities like danceing, outdoor games etc." />
+
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pay Heed to Her Diet"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="A girl should eat healthy. Make her understand the importance of nutrition and help her stay away from fast food and junk food items. " />
+
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Put good Qualities"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="Start putting in qualities right from the very beginning. Do not pamper her or treat her as delicate darling. Enable her to face the world and achieve whatever she wants to." />
+
+<TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clean baby girl’s vaginal area"
+        android:textStyle="bold"
+        android:textColor="@color/blue"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="During nappy changes, use water-moistened cotton wool to wipe the area from front to back. Wipe away from your baby’s vagina and urethra (the opening through which she does a wee). " />
+<TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:text="If your baby has had a very dirty nappy and poo has got within her vaginal lips (labia) do the following: 
+
+With clean fingers, gently separate your baby girl's vaginal lips.
+
+With the moist cotton wool, wipe the area from top to bottom, or front to back, down the middle.
+
+Then, with two more fresh pieces of cotton wool, clean each side within her labia." />
+
+
+
+ <ImageView
+      android:id="@+id/imageView2"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      
+      android:src="@drawable/grp" />
+</LinearLayout>
+
+</ScrollView>

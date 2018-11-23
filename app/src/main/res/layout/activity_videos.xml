@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+<LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:layout_marginTop="10dp"
+                >
+
+
+                <Button
+                    android:id="@+id/btn_cleanness"
+                    style="@style/DashboardButton"
+                    android:layout_width="107dp"
+                    android:drawableTop="@drawable/massage"
+                    android:text="Video for Cleanness"
+                    android:textColor="@color/pink"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/txt_faqs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/linearLayout2"
+                    android:layout_marginTop="17dp"
+                    android:text="Here you will see all the information about how you can keep your child clean"
+                    android:textColor="@color/blue"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+    
+<LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                
+                >
+
+
+                <Button
+                    android:id="@+id/btn_dipwe"
+                    style="@style/DashboardButton"
+                    android:layout_width="107dp"
+                    android:drawableTop="@drawable/diper"
+                    android:text="Changing Baby's diper"
+                    android:textColor="@color/pink"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/txt_faqs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/linearLayout2"
+                    android:layout_marginTop="17dp"
+                    android:text="Here you will see how to change your baby's diper comfitabally."
+                    android:textColor="@color/blue"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+<LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                
+                >
+
+
+                <Button
+                    android:id="@+id/btn_diet"
+                    style="@style/DashboardButton"
+                    android:layout_width="107dp"
+                    android:drawableTop="@drawable/diet2"
+                    android:text="Diet food videos"
+                    android:textColor="@color/pink"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+
+
+                <TextView
+                    android:id="@+id/txt_faqs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/linearLayout2"
+                    android:layout_marginTop="17dp"
+                    android:text="From here you can see video about diet for pragnant women and food habits."
+                    android:textColor="@color/blue"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+ <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                
+                >
+
+
+                <Button
+                    android:id="@+id/btn_general"
+                    style="@style/DashboardButton"
+                    android:layout_width="107dp"
+                    android:drawableTop="@drawable/general"
+                    android:text="General Informations"
+                    android:textColor="@color/pink"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+
+
+                <TextView
+                    android:id="@+id/txt_faqs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/linearLayout2"
+                    android:layout_marginTop="17dp"
+                    android:text="From here you can see general information about child and pragnancy care."
+                    android:textColor="@color/blue"
+                    android:textStyle="bold" />
+
+            </LinearLayout>           
+<LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                
+                >
+
+
+
+                <Button
+                    android:id="@+id/btn_yoga"
+                    style="@style/DashboardButton"
+                    android:layout_width="107dp"
+                    android:drawableTop="@drawable/excersise"
+                    android:text="Yoga and Excersice"
+                    android:textColor="@color/pink"
+                    android:textSize="15dp"
+                    android:textStyle="bold" />
+
+
+
+                <TextView
+                    android:id="@+id/txt_faqs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignTop="@+id/linearLayout2"
+                    android:layout_marginTop="17dp"
+                    android:text="Get videos for yoga and excersice for pragnent women."
+                    android:textColor="@color/blue"
+                    android:textStyle="bold" />
+
+            </LinearLayout>  
+
+
+
+
+
+</LinearLayout>
+</ScrollView>

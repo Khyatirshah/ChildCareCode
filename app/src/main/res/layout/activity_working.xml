@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/workingwoman"
+            android:orientation="vertical" >
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" 
+            
+            >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.05"
+                android:text="Experts suggest that pregnant women can work till sixth month of their pregnancy. But they need to be more attentive towards their physical as well as their mental and emotional health during this time."
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gold"
+        android:text="Pregnancy Tips 1: Healthy diet is a must for pregnant women. If you are working during pregnancy then it becomes even more important to eat right.Remember that you need to keep up your energy level to cope with both i.e. your work and pregnancy. Increase intake of carbohydrates and proteins in your diet.                                        " />
+
+    
+    
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightsky"
+        android:text="Pregnancy Tips 2: Inform your immediate boss about your pregnancy. Some women prefer to break the news in the initial stage of their pregnancy while others want to wait till the second trimester. Decide when you will inform your boss about your pregnancy. It is always wise to tell your boss before the pregnancy symptoms show up.     " />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gold"
+        android:text="Pregnancy Tips 3: It is ethical to inform your boss even if you are planning to stop working after your baby then it will give your boss time to find your replacement." />
+    
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightsky"
+        android:text="Pregnancy Tips 4: Another important pregnancy tip is to avoid fatty food as they can add to your stress levels." />
+
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gold"
+        android:text="Tips 5: Wear comfortable clothes. Your clothes must be loose so that they don’t put pressure of the foetus. Loose fitted clothes will also facilitate you to breathe well." />
+        
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightsky"
+        android:text="Tips 6: Don’t expect yourself to perform in the same manner as you use to before pregnancy. If your job is very demanding then ask your boss to temporarily transfer you to a less demanding job." />
+        
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gold"
+        android:text="Tips 6: Don’t expect yourself to perform in the same manner as you use to before pregnancy. If your job is very demanding then ask your boss to temporarily transfer you to a less demanding job." />
+
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightsky"
+        android:text="Tips 7: You can even ask of permission to work part time and do some of the work from home as per your convenience.If your job requires exposure to harmful chemicals then immediately take the possible precaution." />
+        
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gold"
+        android:text="Tips 8: It is very important to know your rights. Ask about company’s maternity policies. If you think that the leaves are not sufficient then talk to your supervisor about it." />
+        
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightsky"
+        android:text="Tips 9: Make sure that you walk at regular intervals or you can even perform some stretching exercises. This will keep check on faulty blood circulation and prevent problem of swollen feet and back ache." />
+        
+         <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gold"
+        android:text="Tips 10: Make sure that you keep on munching healthy snacks to avoid nauseating feeling during work. Mini meals of salads and fresh fruits can be taken." />
+        
+        
+        
+
+
+</LinearLayout>
+</ScrollView>

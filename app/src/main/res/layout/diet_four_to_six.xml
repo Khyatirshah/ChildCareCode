@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="5dp"
+     >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:text="Diet for 4 to 6 Month"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/blue"
+        android:textStyle="bold" />
+
+<TextView
+	    android:id="@+id/textView5"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="If you decide to start your baby on something other than breastmilk or formula between 4-6 months, ensure that it should be very gradual and liquid." 
+	    android:layout_marginTop="10dp"
+	    />
+<TextView
+	    android:id="@+id/textView5"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="You should introduce only one new food at a time and keep a gap of atleast 3-4 days before introducing anything else." 
+	    android:layout_marginTop="10dp"
+	    />
+
+<TextView
+	    android:id="@+id/textView5"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="If you see any allergies/reactions/ rash, discontinue immediately and wait for few more weeks before trying again.." 
+	    android:layout_marginTop="10dp"
+	    />
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="What to Feed:" 
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+        />
+
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Breastmilk or Formula"
+        android:layout_marginLeft="15dp"
+         />
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dal water, Rice water, Diluted Rice cereal, mashed banana diluted with baby’s milk, cooked and thinly pureed and strained fruits and vegetables"
+        android:layout_marginLeft="15dp"
+         />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How much :"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Solids at this age are just to introduce baby to something other than breastmilk or formula. Take it very, very slow, starting with just a teaspoon of food, gradually increasing it to a tablespoon or so. "
+        android:layout_marginLeft="15dp"
+         />
+	
+	<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="What Not to Feed :"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/pink"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Any solid food which needs chewing."
+        android:layout_marginLeft="15dp"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Citrus fruits."
+        android:layout_marginLeft="15dp"
+         />
+	<TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dairy."
+        android:layout_marginLeft="15dp"
+         />
+
+	<TextView
+	    android:id="@+id/textView5"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="Do not feel pressurized by seeing other babies or listening to other mothers, who say that their babies were eating so and so much during this age. Always remember that your baby is unique and no two babies behave or feed in the same way. Check you baby's growth using Growth Chart calculator." 
+	    android:layout_marginTop="10dp"
+	    />
+
+
+
+	<ImageView
+	    android:id="@+id/imageView1"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:src="@drawable/grop" 
+	    
+	    />
+
+</LinearLayout>
+</ScrollView>

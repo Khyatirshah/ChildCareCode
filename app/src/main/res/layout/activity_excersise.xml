@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/logo"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Why is exercise recommended during pregnancy?"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/pink"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/snow2"
+        android:text="Exercise in pregnancy has many benefits. It improves your muscle tone, strength and endurance. If you are used to keeping fit, you may find it easier to adapt to pregnancy than someone who is out of shape. Regular exercise will: " />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/lightcorol"
+        android:text="help you to carry the weight you gain during pregnancy" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:layout_height="wrap_content"
+        android:background="@color/snow2"
+        android:text="prepare you for the physical challenge of labour and birth" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lightcorol"
+        android:layout_marginTop="5dp"
+        android:text="make getting back into shape after your baby is born easier" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Which exercises are best for me?"
+        android:textColor="@color/pink"
+        
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/snow2"
+        android:text="The ideal exercise in pregnancy gets your heart pumping and keeps you supple, without causing you or your baby too much physical stress. Many activities, such as running and weight training, are fine in the beginning, but you may need to modify your regime as you grow bigger. " />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="@color/lightcorol"
+        android:text="It's best to avoid activities where you might be in danger of slipping or falling, such as cycling, rollerblading, horse riding, and skiing. However, many professional sportswomen continue competing well into their pregnancy. " />
+
+     <TextView
+        android:id="@+id/text_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/blue"
+        android:layout_marginTop="10dp"
+        android:text="Click to see All the exercises, recommended by health professionals "
+     
+         />
+     
+     <ImageView
+         android:id="@+id/imageView1"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:src="@drawable/group2" 
+         android:layout_marginTop="20dp"
+         />
+    
+</LinearLayout>
+</ScrollView>
